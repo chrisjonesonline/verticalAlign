@@ -1,0 +1,42 @@
+/*
+global
+*/
+* {
+	font-family: helvitica, sans-serif;
+}
+h2 {
+	color: #FFB3BA;
+}
+h3 {
+	color: #FFDFBA;
+}
+h4 {
+	color: #FFFFBA;
+}
+h5 {
+	color: #BAFFC9;
+}
+h6 {
+	color: #BAE1FF;
+}
+
+/*
+verticalAlign
+*/
+.container{
+	background-color: #333;
+	width: 100%;
+}
+.no-result {
+	text-align: center;
+	color: #fff;
+	height: auto;
+}
+.vertical-align-outer {
+	display: table;
+	width: 100%;
+}
+.vertical-align {
+	display: table-cell;
+	vertical-align: middle;
+}
