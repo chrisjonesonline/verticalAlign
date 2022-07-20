@@ -21,21 +21,19 @@ h6 {
 }
 
 /*
-verticalAlign
+header
 */
-.container{
-	background-color: #333;
-	width: 100%;
-}
 .no-result {
 	text-align: center;
-	color: #fff;
 	height: auto;
 }
+
 .vertical-align-outer {
-	display: table;
+	background-color: #333;
+  display: table;
 	width: 100%;
 }
+
 .vertical-align {
 	display: table-cell;
 	vertical-align: middle;
