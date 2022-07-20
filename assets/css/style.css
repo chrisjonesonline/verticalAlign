@@ -30,7 +30,7 @@ header
 
 .vertical-align-outer {
 	background-color: #333;
-  display: table;
+  	display: table;
 	width: 100%;
 }
 
